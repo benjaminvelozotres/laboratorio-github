@@ -7,3 +7,8 @@
 Este repositorio contiene mis prácticas de laboratorio sobre control de
 versiones, administración del sistema operativo y configuraciones de
 contenedores Docker.
+## Sistemas operativos que uso
+
+- En mi casa uso **Windows 11**
+- En mi celular uso Android
+- En la escuela usamos Windows 10
